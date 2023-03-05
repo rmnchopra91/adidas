@@ -1,0 +1,6 @@
+wheel
+tox
+lazypredict
+plotly
+ipykernel
+nbformat
